@@ -5,3 +5,6 @@ seaborn
 scikit-learn
 joblib
 streamlit
+
+Download Dataset from Kaggle
+https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
